@@ -87,6 +87,14 @@ Allow background usage:
 * Signal
 * K-9 Mail
 
+## Launcher
+
+Import settings file:
+
+```
+discreetlauncher.txt
+```
+
 ## LICENSE
 
 MIT
