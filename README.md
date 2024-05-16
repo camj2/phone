@@ -1,6 +1,6 @@
 # phone
 
-Phone "dotfiles". :)
+<img src="fetch/1.png" width="256">
 
 ## Hardware
 
