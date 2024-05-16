@@ -45,8 +45,9 @@ adb sideload barbet-ota_update-2024050700.zip
 * Clipboard Cleaner
 * ConnectBot
 * Discreet Launcher
+* Element
 * K-9 Mail
-* OsmAnd
+* OsmAnd~
 * QKSMS
 * VLC
 
@@ -62,11 +63,12 @@ adb sideload barbet-ota_update-2024050700.zip
 
 * Amazon
 * Brother Printer
+* Canon Printer
 * Chase
 * Discord
 * Dropbox
 * Reddit
-* SMS Backup and Restore
+* SMS Backup & Restore
 * Speedtest
 * Stremio
 
