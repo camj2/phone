@@ -51,7 +51,7 @@ rename_apps.txt: {com.stremio.one/com.stremio.MainActivity}--SEPARATOR--Torrent
 rename_apps.txt: {com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}--SEPARATOR--Video
 rename_apps.txt: {com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity}--SEPARATOR--Vanced
 rename_apps.txt: {com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}--SEPARATOR--Launcher
-rename_apps.txt: {com.wireguard.android/com.wireguard.android.activity.MainActivity}--SEPARATOR--Wireguard
+rename_apps.txt: {com.wireguard.android/com.wireguard.android.activity.MainActivity}--SEPARATOR--Guard
 rename_apps.txt: {de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}--SEPARATOR--Binary
 rename_apps.txt: {deckers.thibault.aves.libre/deckers.thibault.aves.MainActivity}--SEPARATOR--Aves
 rename_apps.txt: {io.github.deweyreed.clipboardcleaner/io.github.deweyreed.clipboardcleaner.MainActivity}--SEPARATOR--Cleaner

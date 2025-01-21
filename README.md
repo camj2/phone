@@ -4,8 +4,8 @@
 
 ## Hardware
 
-* Pixel 5a
-* [Case](https://www.amazon.com/dp/B08X1R7873)
+* Pixel 7
+* [Case](https://www.amazon.com/dp/B09YMTV7M2)
 
 ## GrapheneOS
 
@@ -46,8 +46,10 @@ adb sideload barbet-ota_update-2024050700.zip
 * ConnectBot
 * Discreet Launcher
 * Element
+* Geddit
 * K-9 Mail
 * OsmAnd~
+* Primitive FTPd
 * QKSMS
 * VLC
 
@@ -65,8 +67,10 @@ adb sideload barbet-ota_update-2024050700.zip
 * Brother Printer
 * Canon Printer
 * Chase
+* CoinMarketCap
 * Discord
 * Dropbox
+* Kraken Pro
 * Reddit
 * SMS Backup & Restore
 * Speedtest
@@ -92,7 +96,7 @@ Allow background usage:
 Import settings file:
 
 ```
-discreetlauncher.txt
+launcher.txt
 ```
 
 ## LICENSE
