@@ -54,6 +54,7 @@ adb sideload barbet-ota_update-2024050700.zip
 * VLC
 
 ### [Simple Mobile Tools](https://github.com/SimpleMobileTools)
+<!-- ### [Fossify](https://github.com/FossifyOrg) -->
 
 * Simple Calculator
 * Simple Calendar
